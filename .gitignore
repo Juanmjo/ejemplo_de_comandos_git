@@ -1,0 +1,2 @@
+#Agregando todos los archivos de tipo .txt al .gitignore
+*.txt
